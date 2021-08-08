@@ -1,0 +1,11 @@
+/Users/martmcmahon/code/snake_bevy/target/debug/deps/bevy_app-fc75b1b978f99b69.rmeta: /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/lib.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app_builder.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/event.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin_group.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/schedule_runner.rs
+
+/Users/martmcmahon/code/snake_bevy/target/debug/deps/bevy_app-fc75b1b978f99b69.d: /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/lib.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app_builder.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/event.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin_group.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/schedule_runner.rs
+
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/lib.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/app_builder.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/event.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/plugin_group.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.5.0/src/schedule_runner.rs:

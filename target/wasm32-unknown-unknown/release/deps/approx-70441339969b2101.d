@@ -1,0 +1,11 @@
+/Users/martmcmahon/code/snake_bevy/target/wasm32-unknown-unknown/release/deps/approx-70441339969b2101.rmeta: /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/lib.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/abs_diff_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/relative_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/ulps_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/macros.rs
+
+/Users/martmcmahon/code/snake_bevy/target/wasm32-unknown-unknown/release/deps/libapprox-70441339969b2101.rlib: /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/lib.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/abs_diff_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/relative_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/ulps_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/macros.rs
+
+/Users/martmcmahon/code/snake_bevy/target/wasm32-unknown-unknown/release/deps/approx-70441339969b2101.d: /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/lib.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/abs_diff_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/relative_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/ulps_eq.rs /Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/macros.rs
+
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/lib.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/abs_diff_eq.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/relative_eq.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/ulps_eq.rs:
+/Users/martmcmahon/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.0/src/macros.rs:
