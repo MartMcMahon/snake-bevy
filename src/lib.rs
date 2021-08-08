@@ -31,7 +31,6 @@ pub fn run() {
     .insert_resource(LastTailPosition::default())
     .add_event::<GrowthEvent>()
     .add_event::<GameOverEvent>()
-    .add_plugins(DefaultPlugins)
     .add_startup_system(setup.system())
     .add_startup_stage("game_setup", SystemStage::single(spawn_snake.system()))
     .add_system(
