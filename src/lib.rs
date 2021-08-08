@@ -4,15 +4,11 @@ use bevy::render::pass::ClearColor;
 use rand::prelude::random;
 use wasm_bindgen::prelude::*;
 
-const WINDOW_WIDTH: f32 = 600.0;
-const WINDOW_HEIGHT: f32 = 600.0;
+const WINDOW_WIDTH: f32 = 2560.0;
+const WINDOW_HEIGHT: f32 = 1440.0;
 
 const ARENA_WIDTH: u32 = 10;
 const ARENA_HEIGHT: u32 = 10;
-
-const INITIAL_VEL: f32 = 3.0;
-const STARTING_SIZE: f32 = 5.0;
-const TILE_SIZE: f32 = 50.0;
 
 #[wasm_bindgen]
 pub fn run() {
